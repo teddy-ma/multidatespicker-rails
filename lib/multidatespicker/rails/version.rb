@@ -1,5 +1,5 @@
 module Multidatespicker
   module Rails
-    VERSION = "4.3.0"
+    VERSION = "1.6.0"
   end
 end
